@@ -1,0 +1,8 @@
+tqdm
+opencv-python
+numpy
+torch
+torchvision
+logging
+matplotlib
+pillow
