@@ -3,6 +3,7 @@
 It's not perfectly accurate but it does create a solid impression of 3d. The depth model is surprisingly temporally consistent.
 
 ![Output video example](./output.gif)
+The gif looks all messed up on preview for some reason
 ![Output video example](./output.png)
 
 ### Installation:
